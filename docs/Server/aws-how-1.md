@@ -1,7 +1,7 @@
 ---
 layout: default
 title: '[AWS] AWS'
-parent: Server
+parent: AWS
 nav_order: 1
 date: 2023-03-28 18:12:36
 tags:

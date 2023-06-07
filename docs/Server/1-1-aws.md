@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Server
-nav_order: 2
+title: AWS
+parent: server
+nav_order: 1
 has_children: true
 ---
