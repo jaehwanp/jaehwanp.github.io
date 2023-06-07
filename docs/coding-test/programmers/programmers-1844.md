@@ -2,6 +2,7 @@
 layout: default
 title: '게임 맵 최단거리'
 parent: programmers
+grand_parent: coding-test
 nav_order: 1
 ---
 
