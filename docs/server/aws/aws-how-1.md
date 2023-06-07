@@ -2,6 +2,7 @@
 layout: default
 title: '[AWS] AWS'
 parent: aws
+grand_parent: server
 nav_order: 1
 ---
 
