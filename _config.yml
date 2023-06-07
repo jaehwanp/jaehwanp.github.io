@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: qzce
+description: qzce's blog
 theme: just-the-docs
+baseurl: ""
+url: https://qzce.github.io
 
-url: https://just-the-docs.github.io
+permalink: pretty
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: nil
