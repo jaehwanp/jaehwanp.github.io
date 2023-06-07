@@ -1,7 +1,7 @@
 ---
 layout: default
-title: AWS
-parent: AWS
+title: '[AWS] AWS'
+parent: aws
 nav_order: 1
 ---
 
