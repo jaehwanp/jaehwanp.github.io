@@ -3,7 +3,6 @@ layout: default
 title: '게임 맵 최단거리'
 parent: programmers
 nav_order: 1
-date: 2023-03-28 18:12:36
 ---
 
 
