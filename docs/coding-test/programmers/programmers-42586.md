@@ -4,6 +4,7 @@ title: '기능 개발'
 parent: programmers
 grand_parent: coding-test
 nav_order: 1
+nav_exclude: true
 ---
 
 [문제링크](https://school.programmers.co.kr/learn/courses/30/lessons/42586)

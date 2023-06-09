@@ -4,6 +4,7 @@ title: 문자열 압축
 parent: programmers
 grand_parent: coding-test
 nav_order: 1
+nav_exclude: true
 ---
 
 
