@@ -1,12 +1,12 @@
-title: qzce
-description: qzce's blog
+title: jaehwanp
+description: jaehwanp's blog
 theme: just-the-docs
-baseurl: ""
-url: https://qzce.github.io
+baseurl: ''
+url: https://jaehwanp.github.io
 
 permalink: pretty
 
 aux_links:
-  "GitHub": https://github.com/qzce
+  'GitHub': https://github.com/jaehwanp
 
 color_scheme: nil

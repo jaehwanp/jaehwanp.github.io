@@ -1,6 +1,6 @@
 ---
 layout: default
-title: '[AWS] AWS EC2 설정'
+title: '[DOCKER] 공부'
 parent: aws
 grand_parent: server
 nav_order: 1
